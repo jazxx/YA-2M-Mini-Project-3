@@ -1,4 +1,4 @@
-# Team: Y^2AM: Yasmein Asfour & Ayham Makhamra
+# Team: YA^2M: Yasmein Asfour & Ayham Makhamra
 
 # helpdesk-queue-cpp
 
