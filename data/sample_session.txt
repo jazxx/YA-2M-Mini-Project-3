@@ -1,0 +1,12 @@
+load data/demo_day.csv
+search name Kofi Kim
+serve
+serve
+add Ayham Makhamra wifi 10
+cancel 5
+print
+undo
+undo
+undo
+search id 5
+save closing.csv
